@@ -8,8 +8,7 @@ MATLAB program for a generic framework of speech degradation algorithms and its 
 To make the framework and atomic speech model available to public for academic research purpose, the program is provided here.  
 Citation:  
 
-Fanhui Kong, Huali Zhou, Qinglin Meng, Nengheng Zheng. "A generic signal processing framework for speech redundancy manipulation algorithms in speech perception studies"  
-Submitted to a journal. 
+Kong, F., Zhou, H., Zheng, N., & Meng, Q. (2025). Sparse representation of speech using an atomic speech model. The Journal of the Acoustical Society of America, 157(3), 1899-1911.
 
 Main program: AtomicSound12.m  
 Demo1: testAtomicSound12.m (Output figure see above)
@@ -46,3 +45,4 @@ p.fre_range     analysis frequency range (Hz)
            p.carr_typ　carrier type; 1.Origial temporal fine structure (TFS) from the in_sig; 2. sine wave; 3. band-limited noise  
            p.block_T(optional) 　the duration of mosaic blocks  
            p.Spread　dB/oct  
+
